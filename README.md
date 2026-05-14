@@ -1,4 +1,4 @@
-# First Pull Request - Learn by Doing! 🎯
+# First Pull Request - Learn bu doing! 🎯
 
 Welcoem! This repository is disigned to help you make your very first pull request (PR) in a safe, beginner-freindly environment.
 
