@@ -7,9 +7,9 @@ Welcome! This repository is designed to help you make your very first pull reque
 - How to fork a repository
 - How to clone your fork locally
 - How to create a branch
-- How to make changes and cot them
+- How to make changes and commit them
 - How to push changes to GitHub
-- How to create a pull reques
+- How to create a pull request
 
 ## Your Mission 🎯
 
@@ -70,7 +70,7 @@ git push origin fix-typos
 ### 7. Create a Pull Request
 
 1. Go to your fork on GitHub
-1. Click "Compare & pill request"
+1. Click "Compare & pull request"
 1. Add a clear title like "Fix typos in README.md"
 1. Describe what you fixed
 1. Click "Create pull request"
