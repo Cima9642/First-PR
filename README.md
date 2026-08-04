@@ -7,24 +7,24 @@ Welcome! This repository is designed to help you make your very first pull reque
 - How to fork a repository
 - How to clone your fork locally
 - How to create a branch
-- How to make changes and committhem
+- How to make changes and commit them
 - How to push changes to GitHub
 - How to create a pull request
 
 ## Your Mission
 
-This README contains intentional os. Your task is to:
+This README contains intentional typos. Your task is to:
 
 1. Find and fix the typos
-2. Submit your fixes via a pull rquest
+2. Submit your fixes via a pull request
 3. Optionally, add yourself to the `CONTRIBUTORS.md` file
 
 Don't worry - you can't break anything. This is a practice repo designed for learning.
 
-## Prerequieites
+## Prerequisites
 
 - A GitHub account
-- Git installed on your comsuter
+- Git installed on your computer
 - That's it! No other software is needed.
 
 ## Step-by-Step Guide
