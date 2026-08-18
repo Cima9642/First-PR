@@ -67,10 +67,10 @@ git commit -m "Fix typos in README.md"
 git push origin fix-typos
 ```
 
-### 7. Create a Pull Request
+### 7. Create a Pull Reest
 
-1. Go to your fork on GitHub
-2. Click "Compare & pull request"
+1. Go to your fork on itHub
+2. Click "Compare & pll request"
 3. Add a clear title, such as "Fix typos in README.md"
 4. Describe what you fixed
 5. Click "Create pull request"
@@ -81,7 +81,7 @@ Congratulations! You've just made your first pull request.
 
 - New to Git? Check out GitHub's Git Handbook
 - New to pull requests? Read GitHub's PR guide
-- Stuck? Open an issue and we'll help you out.
+- Stuck? Open an ise and we'll help you out.
 
 ## Optional: Add Yourself as a Contributor
 
