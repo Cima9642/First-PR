@@ -67,10 +67,10 @@ git commit -m "Fix typos in README.md"
 git push origin fix-typos
 ```
 
-### 7. Create a Pull Reest
+### 7. Create a Pull Request
 
-1. Go to your fork on itHub
-2. Click "Compare & pll request"
+1. Go to your fork on GitHub
+2. Click "Compare & pull request"
 3. Add a clear title, such as "Fix typos in README.md"
 4. Describe what you fixed
 5. Click "Create pull request"
@@ -81,7 +81,7 @@ Congratulations! You've just made your first pull request.
 
 - New to Git? Check out GitHub's Git Handbook
 - New to pull requests? Read GitHub's PR guide
-- Stuck? Open an ise and we'll help you out.
+- Stuck? Open an issue and we'll help you out.
 
 ## Optional: Add Yourself as a Contributor
 
@@ -107,13 +107,13 @@ In this article, we'll cover some best practices for using pull requests effecti
 - Keep pull requests small and focused: It's generally easier to review and test smaller pull requests than larger ones. Try to limit your pull requests to a single, focused change rather than a large number of unrelated changes. This will make it easier for other team members to review and test your changes.
 - Use code review tools: GitHub provides a number of tools to help you review code, including inline comments, line-by-line review, and code review templates. Use these tools to provide feedback and suggestions for improvement on the code you're reviewing.
 - Respond to feedback and requests for changes: If someone leaves a comment or requests changes on your pull request, be sure to respond in a timely manner. This will help ensure that the review process stays on track and that any necessary changes are made before the pull request is merged.
-- Test your changes: Before sussmitting a pull request, be sure to test your changes to ensure that they work as expected. This will help ensure that the changes are ready to be merged and that they don't introduce any new bugs or issues.
+- Test your changes: Before submitting a pull request, be sure to test your changes to ensure that they work as expected. This will help ensure that the changes are ready to be merged and that they don't introduce any new bugs or issues.
 
-By following these best practices, you can streamline your workflow and ensure that your pull requests are reviewed and tested effectively. With a little bit of practice, you'll be able to use GitHub pull requests to collaborate on code and contribute to open source projects with confddidence.
+By following these best practices, you can streamline your workflow and ensure that your pull requests are reviewed and tested effectively. With a little bit of practice, you'll be able to use GitHub pull requests to collaborate on code and contribute to open source projects with confidence.
 
 ## Code of Conduct
 
-This project adheres to the Contributor Covenant. By particaipating, you are expected to uphold the code. Please report unacceptable behavior to Cima9642.
+This project adheres to the Contributor Covenant. By participating, you are expected to uphold the code. Please report unacceptable behavior to Cima9642.
 
 Happy coding!
 
