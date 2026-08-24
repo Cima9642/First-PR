@@ -36,8 +36,8 @@ Click the "Fork" button at the top right of this page. This creates your own cop
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/first-pull-request.git
-cd first-pull-request
+git clone https://github.com/YOUR-USERNAME/First-PR.git
+cd First-PR
 ```
 
 Replace `YOUR-USERNAME` with your actual GitHub username.

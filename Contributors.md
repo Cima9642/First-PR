@@ -12,3 +12,4 @@ Please add your name or username with your github profile following the example 
 - [NitkarshChourasia](https://nitkarshchourasia.github.io/)  
 - [Rishav Raj](https://github.com/Rishav1707)
 - [KhyFee](https://github.com/KhyFee)
+- [Ayyan Zubair](https://github.com/ayyanzubair729)
