@@ -118,3 +118,25 @@ This project adheres to the Contributor Covenant. By participating, you are expe
 Happy coding!
 
 Remember: Everyone started as a beginner. This is your safe space to learn and make mistakes.
+
+## Frequently Asked Questions (FAQ)
+
+### What should I do if my pull request has merge conflicts?
+
+Merge conflicts happen when your changes and someone else's changes affect the same part of a line. Git will show you where the conflict is. Choose the changes you want to keep, remove the conflict markers, then commit and push your changes again.
+
+### How do I update my fork with the latest changes?
+
+Your fork can become out of date when the original repository gets new changes. You can use the Sync fork option on Github to bring your fork up to date with the original repository.
+
+### What if I make a mistake in my pull request?
+
+Don't worry. You can fix the mistake on your branch, commit the changes, and push them to GitHub. Your existing pull request will automatically update with your new changes.
+
+### What happens after I open a pull request?
+
+A project maintainer will review your changes. They may approve them, leave comments, or ask you to make changes. Once everything looks good, your pull request can be merged into the project.
+
+### Can i contribute if I am new to GitHub?
+Yes! You don't need to be an expert to make your first contribution. Start with a small issue labelled "good first issue", follow the project's instructions, and ask questions if you get stuck.
+
