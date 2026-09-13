@@ -17,7 +17,7 @@ This README contains intentional typos. Your task is to:
 
 1. Find and fix the typos
 2. Submit your fixes via a pull request
-3. Optionally, add yourself to the `CONTRIBUTORS.md` file
+3. Optionally, add yourself to the `Contributors.md` file
 
 Don't worry - you can't break anything. This is a practice repo designed for learning.
 
