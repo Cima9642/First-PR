@@ -79,8 +79,8 @@ Congratulations! You've just made your first pull request.
 
 ## Need Help?
 
-- New to Git? Check out GitHub's Git Handbook
-- New to pull requests? Read GitHub's PR guide
+- New to Git? Read GitHub's guide to [Git basics](https://docs.github.com/en/get-started/using-git/about-git).
+- New to pull requests? Follow GitHub's [pull requests guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests).
 - Stuck? Open an issue and we'll help you out.
 
 ## Optional: Add Yourself as a Contributor
@@ -139,4 +139,3 @@ A project maintainer will review your changes. They may approve them, leave comm
 
 ### Can i contribute if I am new to GitHub?
 Yes! You don't need to be an expert to make your first contribution. Start with a small issue labelled "good first issue", follow the project's instructions, and ask questions if you get stuck.
-
