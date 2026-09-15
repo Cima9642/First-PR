@@ -85,7 +85,7 @@ Congratulations! You've just made your first pull request.
 
 ## Optional: Add Yourself as a Contributor
 
-After fixing typos, you're welcome to add your information to `CONTRIBUTORS.md`:
+After fixing typos, you're welcome to add your information to `Contributors.md`:
 
 ```markdown
 ### Your Name
@@ -127,7 +127,7 @@ Merge conflicts happen when your changes and someone else's changes affect the s
 
 ### How do I update my fork with the latest changes?
 
-Your fork can become out of date when the original repository gets new changes. You can use the Sync fork option on Github to bring your fork up to date with the original repository.
+Your fork can become out of date when the original repository gets new changes. You can use the Sync fork option on GitHub to bring your fork up to date with the original repository.
 
 ### What if I make a mistake in my pull request?
 
@@ -137,5 +137,5 @@ Don't worry. You can fix the mistake on your branch, commit the changes, and pus
 
 A project maintainer will review your changes. They may approve them, leave comments, or ask you to make changes. Once everything looks good, your pull request can be merged into the project.
 
-### Can i contribute if I am new to GitHub?
+### Can I contribute if I am new to GitHub?
 Yes! You don't need to be an expert to make your first contribution. Start with a small issue labelled "good first issue", follow the project's instructions, and ask questions if you get stuck.
