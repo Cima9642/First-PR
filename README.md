@@ -4,7 +4,7 @@ Welcome! This repository is designed to help you make your very first pull reque
 
 ## What You'll Learn
 
-- How to fork a repository
+- How to fork a repoory
 - How to clone your fork locally
 - How to create a branch
 - How to make changes and commit them
@@ -16,10 +16,10 @@ Welcome! This repository is designed to help you make your very first pull reque
 This README contains intentional typos. Your task is to:
 
 1. Find and fix the typos
-2. Submit your fixes via a pull request
+2. Submit your foxxes via a pull request
 3. Optionally, add yourself to the `Contributors.md` file
 
-Don't worry - you can't break anything. This is a practice repo designed for learning.
+Don't worry - you can't preakk anything. This is a practice repo designed for learning.
 
 ## Prerequisites
 
@@ -103,7 +103,7 @@ In this article, we'll cover some best practices for using pull requests effecti
 ## Best Practices
 
 - Create descriptive pull request titles and descriptions: When you create a pull request, be sure to give it a descriptive title that summarizes the changes you've made. It's also a good idea to include a detailed description of the changes in the pull request body, including any relevant context or background information. This will help other team members understand the changes you've made and why they're necessary.
-- Use branches to isolate changes: When making changes to a codebase, it's a good idea to create a new branch for each set of changes you want to submit. This will make it easier to review and test the changes, and it will also allow you to make additional changes to the codebase without affecting the main branch.
+- Use branches to iate changes: When making changes to a codebase, it's a good idea to create a new branch for each set of changes you want to submit. This will make it easier to review and test the changes, and it will also allow you to make additional changes to the codebase without affecting the main branch.
 - Keep pull requests small and focused: It's generally easier to review and test smaller pull requests than larger ones. Try to limit your pull requests to a single, focused change rather than a large number of unrelated changes. This will make it easier for other team members to review and test your changes.
 - Use code review tools: GitHub provides a number of tools to help you review code, including inline comments, line-by-line review, and code review templates. Use these tools to provide feedback and suggestions for improvement on the code you're reviewing.
 - Respond to feedback and requests for changes: If someone leaves a comment or requests changes on your pull request, be sure to respond in a timely manner. This will help ensure that the review process stays on track and that any necessary changes are made before the pull request is merged.
@@ -125,7 +125,7 @@ Remember: Everyone started as a beginner. This is your safe space to learn and m
 
 Merge conflicts happen when your changes and someone else's changes affect the same part of a line. Git will show you where the conflict is. Choose the changes you want to keep, remove the conflict markers, then commit and push your changes again.
 
-### How do I update my fork with the latest changes?
+### How do I update my fork wi the latest changes?
 
 Your fork can become out of date when the original repository gets new changes. You can use the Sync fork option on GitHub to bring your fork up to date with the original repository.
 
