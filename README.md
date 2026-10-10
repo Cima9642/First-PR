@@ -4,7 +4,7 @@ Welcome! This repository is designed to help you make your very first pull reque
 
 ## What You'll Learn
 
-- How to fork a repoory
+- How to fork a repository
 - How to clone your fork locally
 - How to create a branch
 - How to make changes and commit them
@@ -16,10 +16,10 @@ Welcome! This repository is designed to help you make your very first pull reque
 This README contains intentional typos. Your task is to:
 
 1. Find and fix the typos
-2. Submit your foxxes via a pull request
+2. Submit your fixes via a pull request
 3. Optionally, add yourself to the `Contributors.md` file
 
-Don't worry - you can't preakk anything. This is a practice repo designed for learning.
+Don't worry - you can't break anything. This is a practice repo designed for learning.
 
 ## Prerequisites
 
